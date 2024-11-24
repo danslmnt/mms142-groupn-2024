@@ -1,6 +1,41 @@
 Group N's MMS 142 Activity (Jekyll mediator template)
 ========
 
+Hello, everyone! This is Group N's group activity repository. This report tackles cryptocurrency as a disruptor of traditional finance systems by revisiting its origins/history and exploring its possible global future. We used the 'mediator' template on Jekyll Themes.
+
+Members:
+
+1. Ruiz, Hannah Jane
+
+2. Ruste, Asleya Faye
+
+3. Salamante, Odessa Danielle
+
+4. Santiago, Janrome Kenneth
+
+5. Sapnu, Diego Miguel
+
+6. Sare, Naomie Maxine
+
+7. Sharpe, Megan
+
+8. Sigua, Janna Arielle
+
+9. Simo, Daphne Sarah
+
+10. Sison, Adrian Dominic
+
+11. Sta Clara, Kaoru Jo Michaela
+
+12. Subido, Alexandra Izabel
+
+13. Tagriza, Angel
+
+
+Below is the default Read Me file content for the 'mediator' template!
+
+--------
+
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
 [Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
 
