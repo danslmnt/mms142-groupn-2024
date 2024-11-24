@@ -1,4 +1,4 @@
-mediator
+Group N's MMS 142 Activity (Jekyll mediator template)
 ========
 
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
