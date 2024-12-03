@@ -1,113 +1,69 @@
-Group N's MMS 142 Activity (Jekyll mediator template)
-========
-
-Hello, everyone! This is Group N's group activity repository. This report tackles cryptocurrency as a disruptor of traditional finance systems by revisiting its origins/history and exploring its possible global future. We used the 'mediator' template on Jekyll Themes.
-
-Members:
-
-1. Ruiz, Hannah Jane
-
-2. Ruste, Asleya Faye
-
-3. Salamante, Odessa Danielle
-
-4. Santiago, Janrome Kenneth
-
-5. Sapnu, Diego Miguel
-
-6. Sare, Naomie Maxine
-
-7. Sharpe, Megan
-
-8. Sigua, Janna Arielle
-
-9. Simo, Daphne Sarah
-
-10. Sison, Adrian Dominic
-
-11. Sta Clara, Kaoru Jo Michaela
-
-12. Subido, Alexandra Izabel
-
-13. Tagriza, Angel
 
 
-Below is the default Read Me file content for the 'mediator' template!
+![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
+![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
+![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
+![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
 
---------
+# A simple Github Pages template for academic personal website.
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](http://blog.base68.com).
+## Preview
+[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
 
-Screenshots
---------
-![screenshot](/assets/images/screenshot1.jpg)
-![screenshot](/assets/images/screenshot2.jpg)
-![screenshot](/assets/images/screenshot3.jpg)
 
-Features
--------
-* Fully Responsive layout
-* Use header images in articles, if you want to (add tag "image" and url to the image in the front matter section of a post)
-* Minimal design
-* Featured article support
-* FontAwesome implemented for easy use of icons fonts
-* Free & Open Source Font usage
+## Introduction
 
-Getting Started
----
-- [Fork this repository](https://github.com/dirkfabisch/mediator)
-- Clone it: `git clone https://github.com/YOUR-USER/mediator`
-- Install the requried gems ([GitHub Pages](https://github.com/github/pages-gem), [Bourbon](https://github.com/thoughtbot/bourbon) and [Jekyll](https://github.com/jekyll/jekyll), [Jemoji](https://github.com/jekyll/jemoji)): `bundle install`
-- Run the jekyll server: `bundle exec jekyll serve`
+This is an academic personal website template based on [bootstrap](https://github.com/StartBootstrap/startbootstrap-new-age).
 
-You should have a server up and running locally at <http://localhost:4000>.
+The template is designed to integrate Markdown files as content input.  There's no need to compile the webpage before deployment.  Upon loading, the Markdown files are automatically parsed and embedded into the page.
 
-Configuration
------
+This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as delimiters for inline-math, or use `$$...$$` and `\[...\]` as delimiters for display-math. Macros such as `\ref{...}`, `\eqref{...}`, and `\begin{equation}...\end{equation}` are also supported. See [MathJax](https://docs.mathjax.org/en/latest/index.html) for more details.
 
-The main settings happen in side of the _config.yml file:
+:milky_way: Demo: https://senli1073.github.io/
 
-### Site
 
-Main settings for the site
+## Getting Start
+### 1. Fork this repository
+The repository name should be `<username>.github.io`, which will also be your website's URL.
 
-* **title**: name of your site
-* **description**: description of your site
-* **logo**: small logo for the site (300x * 300x)
-* **cover**: large background image on the index page
 
-* **name**: name site owner
-* **email**: mail address of the site owner
-* **author**: author name
-* **author_image**: small image of author (300x * 300px)
-* **disqus**: add a disqus forum for your post
+### 2. Edit page content
 
-### Social
-
-The template allows to add all major social platforms to your site.
-Fill the the form for each platform. If you leave the share_* entries empty, the sharing buttons below a post are not shown.  If you leave the **url** and **desc** empty the icons are not shown on the index page, but the share icons on the article pages remains untouched (Thanks to [Phil](https://github.com/philsturgeon))
-
-* **icon**:	name of social platform (must match a name of [font-awsome](http://fortawesome.github.io/Font-Awesome/) icon set )
-* **url**:	url of your account
-* **desc**: slogan of the platform
-* **share_url**: share url
-* **share_title**: first part of url for the title
-* **share_link**: second part of the share url for the link to the post
-
-The Liquid template engine will magical combine the different parts to a share url.
-
+(1) Go to the folder where you want to store your project, and clone the new repository:
 ```
-http://twitter.com/share?text=post_title&amp;url=post_url
-````
+git clone https://github.com/<username>/<username>.github.io.git
+```
+The directory structure is as follows:
 
-See [_config.yml](https://github.com/dirkfabisch/mediator/blob/master/_config.yml) for more examples.
+```.
+.
+├── contents
+└── static
+    ├── assets
+    │   └── img
+    ├── css
+    └── js
+```
 
-Licensing
----------
+(2) Modify the content of each section, which corresponds to `contents/*.md`.
 
-[MIT](https://github.com/dirkfabisch/mediator/blob/master/LICENCE) with no added caveats, so feel free to use this on your site without linking back to me or using a disclaimer or anything silly like that.
+(3) Adjust the title, copyright information, and other text of the website in `contents/config.yml`
 
-Contact
--------
-I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
+(4) Replace background image and photo with new ones for your web pages in `static/assets/img/`
+
+(5) Push it: 
+```
+git commit -am 'init'
+git push
+```
+
+
+### 3. Enjoy
+
+Fire up a browser and go to `https://<username>.github.io`
+
+
+
+## License
+
+Copyright Sen Li, 2023. Licensed under an MIT license. You can copy and mess with this template.
