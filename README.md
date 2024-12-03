@@ -29,6 +29,8 @@ Members:
 
 12. Subido, Alexandra Izabel
 
+13. Tagriza, Angel Eunice
+
 Below is the default README content of the simple website template:
 __________________
 
