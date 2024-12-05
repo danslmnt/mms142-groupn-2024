@@ -14,8 +14,24 @@ With that being said, we can dive into why cryptocurrency is on the rise after t
 
 ### Crypto Industry’s Distrust in the Current Crypto Regulators
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Bibendum montes nostra volutpat augue senectus massa ultricies nam. Ac sem nec dolor nostra ad tincidunt velit id. Integer sagittis pretium mauris morbi massa congue volutpat. Lobortis lacinia eget, lorem hac maximus nec aliquet. Bibendum nisi consequat ullamcorper vivamus dictumst. Justo blandit vivamus sociosqu eros integer facilisis libero mollis. Ex turpis aliquam tellus parturient massa facilisis.
+Those in the space are not big fans of Gensler because they feel he has not been clear on regulation over cryptocurrency. When regulation is unclear, founders worry that they might not be operating legally. These fears have been proven valid due to the SEC taking legal action against over 100 cryptocurrency companies and projects during his time as the Chairman of the SEC. These could have been avoided if they had clarity in the first place on what guidelines to follow. 
+
+The co-founder & CEO of Coinbase, one of the most prominent crypto exchange platforms in the world, posted on X (formerly Twitter) on October 29, 2024 an image of the SEC’s conflicting statements on what their true stance on cryptocurrency is, whether or not digital assets are classified as securities. This is significant, because if digital assets are not classified as securities, then the SEC has no jurisdiction over it, and cryptocurrency owners have full autonomy over their own assets.  
+
+Under Gensler’s leadership, the X account of the SEC posted that the SEC had approved of a certain type of Bitcoin investment, and they later posted that their account was hacked. This led to a further lack of trust in the SEC from the crypto industry. The disapproval of Gensler’s leadership has led 18 U.S. states to sue him for “regulatory overreach” as was reported just 10 days ago on November 14. 
+
+The leaders of these 18 states believe Gensler and the SEC have gone too far in their efforts to regulate the crypto industry, accusing them of abusing their power and imposing rules or actions that exceed what they are legally allowed to do. They argue that his aggressive approach is unfair, unclear, and harmful to businesses in the crypto industry.
 
 ### Trump’s Plans for the Future of Crypto 
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Bibendum montes nostra volutpat augue senectus massa ultricies nam. Ac sem nec dolor nostra ad tincidunt velit id. Integer sagittis pretium mauris morbi massa congue volutpat. Lobortis lacinia eget, lorem hac maximus nec aliquet. Bibendum nisi consequat ullamcorper vivamus dictumst. Justo blandit vivamus sociosqu eros integer facilisis libero mollis. Ex turpis aliquam tellus parturient massa facilisis.
+With Gensler stepping down and Trump being supportive of crypto in general, it’s no wonder that crypto investments rapidly rose and continues to do so since Election Day. 
+
+Trump himself reportedly has $250,000 to $500,000 worth of digital assets in a cryptocurrency wallet. He is working on establishing a “Strategic Bitcoin Reserve” once he takes office, with a pro-crypto council. Reportedly, many of the leaders in the crypto industry are aiming to get a seat on the council.
+
+Funny enough, he used to be against it, famously posting on Twitter back in 2019 that “I am not a fan of Bitcoin and other Cryptocurrencies, which are not money, and whose value is highly volatile and based on thin air. Unregulated Crypto Assets can facilitate unlawful behavior, including drug trade and other illegal activity....”
+
+However, he has had a change of heart and has stated his intentions to make the U.S. the “crypto capital of the planet” when he attended a Bitcoin conference earlier this year while campaigning for the election. He believes that Americans should have the freedom to have digital assets without government surveillance and control, opposite from how CBDCs (Central Bank Digital Currencies) operate.
+
+From an economic perspective, he aims for all Bitcoin to be mined within the United States, which will create new jobs for its citizens. Bitcoin mining as defined by Coinbase is “the process that Bitcoin and several other cryptocurrencies use to generate new coins and verify new transactions. It involves vast, decentralized networks of computers around the world that verify and secure blockchains – the virtual ledgers that document cryptocurrency transactions. In return for contributing their processing power, computers on the network are rewarded with new coins.”
+
+Despite all of the above, it is important to know, however, that Trump has made it clear that “We will have regulations, but from now on the rules will be written by people who love your industry, not hate your industry,” which is important because many of the US’s choices in regulating finance and trade have a significant impact on other countries and the world economy. Therefore, we are at an interesting time observing how the US’s regulatory approach will influence other countries to regulate their own citizens’ digital asset behaviors.
