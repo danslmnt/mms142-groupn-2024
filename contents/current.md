@@ -13,7 +13,8 @@ Many have seen the news headlines of Bitcoin being at an all-time high after the
 <br><br><!-- Adds extra vertical space -->
 ### Trump’s Disapproval of Current Crypto Regulators
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Bibendum montes nostra volutpat augue senectus massa ultricies nam. Ac sem nec dolor nostra ad tincidunt velit id. Integer sagittis pretium mauris morbi massa congue volutpat. Lobortis lacinia eget, lorem hac maximus nec aliquet. Bibendum nisi consequat ullamcorper vivamus dictumst. Justo blandit vivamus sociosqu eros integer facilisis libero mollis. Ex turpis aliquam tellus parturient massa facilisis.
+With that being said, we can dive into why cryptocurrency is on the rise after the election. U.S. President-elect Donald Trump has stated that once he takes office, he plans to remove the U.S.’s Security and Exchange Commission (government agency that oversees financial markets) Chairman Gary Gensler from his position. The problem, however, is that a President doesn’t actually have the authority to directly fire him, but can only appoint a new Chairman while Gensler would remain a commissioner in the agency. Gensler, however, ahead of time has announced this month that he will be stepping down from the SEC.
+
 <br><br><!-- Adds extra vertical space -->
 ### Crypto Industry’s Distrust in the Current Crypto Regulators
 
