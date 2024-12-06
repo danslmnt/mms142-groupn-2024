@@ -2,25 +2,16 @@
 
 
 :root{
-    --h-title-color: #ffffff;
-    --font-heading: "Futura", sans-serif;
-    --font-body: "Garamond", serif;
-}
-
-body {
-    font-family: var(--font-body);
-    font-size: 1rem; 
-    line-height: 1.6; 
-    color: #ffffff; 
+    --h-title-color:#3948d2;
 }
 
 .header {
-    border-bottom: solid 2px var(#3a345f);
+    border-bottom: solid 2px var(--bs-blue);
     z-index: 10000;
 }
 
 .bg-bottom {
-    background-color: #3a345f;
+    background-color: var(--h-title-color);
 }
 
 .top-section {
@@ -47,12 +38,12 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #50345f;
+    background: rgba(0, 0, 0, 0.5);
 }
 
 section header h2{
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
-    color: ffffff;
+    color: var(--h-title-color);
     font-size: 2.3rem;
     line-height: 4rem;
 }
@@ -65,11 +56,11 @@ section .main-body{
 
 
 .bg-gradient-primary-to-secondary-light {
-    background: linear-gradient(#3a345f, #50345f, #ffffff) !important;
+    background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(#3a345f, #50345f, #f1f1f1) !important;
+    background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
 }
 
 
@@ -93,7 +84,7 @@ section .main-body{
     left: 0;
     width: 100%;
     height: 100%;
-    background: #3a345f;
+    background: rgba(0, 0, 0, 0.4);
 }
 
 
