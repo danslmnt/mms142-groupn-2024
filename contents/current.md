@@ -1,5 +1,6 @@
-
 <br><br><!-- Adds extra vertical space -->
+<center><img src="media/current.png" width="75%" height="75%"></center>
+
 ### Current Global Cryptocurrency Market Cap
 
 
