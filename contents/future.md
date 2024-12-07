@@ -10,7 +10,6 @@ While the Bitcoin Law offers advantages, such as reduced remittance fees and pot
 Critics have raised concerns about the mandatory acceptance of Bitcoin for transactions, as stipulated in the law, which they argue undermines financial freedom and violates constitutional provisions (Alonso et al., 2023). Moreover, Bitcoin’s inherent price volatility complicates its use as a stable medium of exchange and poses risks to public finances. These challenges highlight the uncertainty surrounding the long-term success of Bitcoin adoption as legal tender.
 
 Despite these obstacles, El Salvador's bold experiment has positioned it as a leader in cryptocurrency innovation. By embracing blockchain technology, the nation has sparked global debates on the future of digital currencies and their potential as disruptive technologies. The Bitcoin Law serves as a case study for other nations exploring similar paths, offering lessons on both the opportunities and risks of integrating cryptocurrencies into national economies (Alonso et al., 2023).
-
 <br><br> <!-- Adds extra vertical space -->
 ### Political and Economical Implications
 
@@ -23,7 +22,6 @@ Filipsson, Hajj & Farran (2024) stated in two different sources that cryptocurre
 To avoid destabilization, numerous governments are working on Central Bank Digital Currencies (CBDCs), which provide the advantages of cryptocurrencies while ensuring state oversight. The European Central Bank and the U.S. Federal Reserve are investigating CBDCs to develop secure and regulated digital currencies that complement the current financial systems  (Central Bank Digital Currency (CBDC), n.d.).
 
 The future of cryptocurrency will depend on how governments navigate the tension between fostering innovation and ensuring economic stability. The integration of cryptocurrency into the global economy will be influenced by regulatory measures, technological advancements, and geopolitical factors, possibly resulting in a more decentralized financial system, though this comes with risks that should be managed cautiously.
-
 <br><br> <!-- Adds extra vertical space -->
 ### Vision for a Decentralized Future:
 
