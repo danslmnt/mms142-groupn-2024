@@ -31,9 +31,9 @@
     margin-right: 25px;  
 }
 
-.navbar-nav li a {
+.navbar-nav > li > a {
     color: white;
-    font-size: 14px;
+    font-size: 14px !important; 
     font-weight: bold;
     text-decoration: none;  
 }
