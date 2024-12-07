@@ -137,6 +137,11 @@ section .main-body{
     box-shadow: 5px 5px 5px #21254a;
 }
 
+img {
+    max-width: 100%; 
+    height: auto;   
+}
+
 @media screen and (max-width: 991px) {
     #avatar {
         margin: 0;
