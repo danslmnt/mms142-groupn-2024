@@ -43,7 +43,7 @@ The leaders of these 18 states believe Gensler and the SEC have gone too far in 
 
 With Gensler stepping down and Trump being supportive of crypto in general, it’s no wonder that crypto investments rapidly rose and continue to do so since Election Day. 
 
-Trump himself reportedly has $250,000 to $500,000 worth of digital assets in a cryptocurrency wallet. He is working on establishing a “Strategic Bitcoin Reserve” once he takes office, with a pro-crypto council. Reportedly, many of the leaders in the crypto industry are aiming to get a seat on the council.
+Trump himself reportedly has 250,000 to 500,000 US dollars worth of digital assets in a cryptocurrency wallet. He is working on establishing a “Strategic Bitcoin Reserve” once he takes office, with a pro-crypto council. Reportedly, many of the leaders in the crypto industry are aiming to get a seat on the council.
 
 Funny enough, he used to be against it, famously posting on Twitter back in 2019 that “I am not a fan of Bitcoin and other Cryptocurrencies, which are not money, and whose value is highly volatile and based on thin air. Unregulated Crypto Assets can facilitate unlawful behavior, including drug trade and other illegal activity....”
 
