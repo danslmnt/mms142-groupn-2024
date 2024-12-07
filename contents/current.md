@@ -1,4 +1,3 @@
-<br><br><!-- Adds extra vertical space -->
 ### Current Global Cryptocurrency Market Cap
 
 As of November 24, 2024, the global cryptocurrency market cap (market capitalization) is $3.34T in USD. It rises by the day in numbers that cannot be estimated. It can be monitored in real time on CoinMarketCap.com. All of the statistics that will continue to be reported in this section are also as of November 24, 2024.
