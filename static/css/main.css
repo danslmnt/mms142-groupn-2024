@@ -7,14 +7,12 @@
 .navdiv{
      display: flex; align-items: center; justify-content: space-between;
 }
-@media (min-width: 992px) {
-    .navbar-nav {
-        display: none;  
-    }
+.navbar-nav {
+    display: block; 
+}
 
-    .navbar-nav.dropdown {
-        display: block;  
-    }
+.navbar-nav .dropdown {
+    display: block; 
 }
 .logo a{
     font-size: 35px; font-weight: 600; color: white;
