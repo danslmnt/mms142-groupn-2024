@@ -4,31 +4,39 @@
     background: #21254a; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     padding-right: 15 px; padding-left: 15 pc;
 }
-.navdiv{
-     display: flex; align-items: center; justify-content: space-between;
+.navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
+
 .navbar-nav {
     display: flex;  
-    justify-content: space-between;  
+    justify-content: space-evenly;  
+    padding: 0;  
 }
 
 .navbar-nav .dropdown {
     display: block; 
 }
-.logo a{
-    font-size: 35px; font-weight: 600; color: white;
+
+.logo a {
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
 }
+
 .navbar-nav li {
-    display: inline-block;  
+    display: inline-block; 
     margin-right: 25px;  
 }
+
 .navbar-nav li a {
     color: white;
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;  
 }
-
     button{
         background-color: #21254a; margin-left: 10px; border-radius: 10px; padding: 10 px; width: 90px;
     }
