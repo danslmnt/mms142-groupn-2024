@@ -1,26 +1,51 @@
 @import "./styles.css";
 
+.navbar{
+    background: #21254a; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    padding-right: 15 px; padding-left: 15 pc;
+}
+.navdiv{
+     display: flex; align-items: center; justify-content: space-between;
+}
+.logo a{
+    font-size: 35px; font-weight: 600; color: white;
+}
+    li{
+    list-style: none; displau: inline-block;
+}
+    li a{
+        color: white; font-size: 18px; font-weigyht: bold; margin-right: 25 px;
+    }
+    button{
+        background-color: #21254a; margin-left: 10px; border-radius: 10px; padding: 10 px; width: 90px;
+    }
+    button a{
+        color: white; font-weight: bold; font-size: 15 px
+    }
+    
 
 :root{
-    --h-title-color:#3948d2;
+    --h-title-color:#21254a;
     --font-heading: "Futura", sans-serif;
     --font-body: "Garamond", serif;
 }
+
+
 
 body {
     font-family: var(--font-body);
     font-size: 1rem; 
     line-height: 1.6; 
-    color: #333; 
+    color: #21254a; 
 }
 
 .header {
-    border-bottom: solid 2px var(--bs-blue);
+    border-bottom: solid 2px var(white);
     z-index: 10000;
 }
 
 .bg-bottom {
-    background-color: var(--h-title-color);
+    background-color: var(#21254a);
 }
 
 .top-section {
@@ -47,12 +72,12 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5);
+    background: #21254a;
 }
 
 section header h2{
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
-    color: var(--h-title-color);
+    color: var(#21254a);
     font-size: 2.3rem;
     line-height: 4rem;
 }
@@ -65,7 +90,7 @@ section .main-body{
 
 
 .bg-gradient-primary-to-secondary-light {
-    background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
+    background: linear-gradient(45deg, #f0f0f0, #ffffff) !important;
 }
 
 .bg-gradient-primary-to-secondary-gray {
@@ -93,7 +118,7 @@ section .main-body{
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.4);
+    background: #21254a;
 }
 
 
@@ -109,7 +134,7 @@ section .main-body{
 
 #avatar img {
     height: max(130px,min(200px,calc(100vw/6)));
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 5px 5px 5px #21254a;
 }
 
 @media screen and (max-width: 991px) {
