@@ -1,5 +1,5 @@
 <br><br><!-- Adds extra vertical space -->
-<center><img src="media/evolution.png" width="75%" height="75%"></center>
+![](/media/evolution.png)
 <br><br><!-- Adds extra vertical space -->  
 
 ### The Development of the Concept of Crypto (Pre-Crypto Era)
