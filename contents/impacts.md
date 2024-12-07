@@ -1,7 +1,3 @@
-Impacts of Cryptocurrency in Different Fields 
-========
-</br>
-
 ### Environmental Impact 
 
 Cryptocurrency's use and influence have grown rapidly; nevertheless this has raised considerable environmental concerns. Mining operations and its energy demands and reliance on various energy sources have come under intense scrutiny. Understanding the environmental consequences of cryptocurrency mining necessitates an examination of the overall energy landscape and its associated issues.
