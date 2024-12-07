@@ -143,10 +143,22 @@ section .main-body{
     }
 }
 
-@media (max-width: 768px) {
-    .section-title {
+@media screen and (max-width: 768px) {
+    .container {
         padding-left: 15px;
         padding-right: 15px;
-        font-size: smaller;  
+        width: 100%;
+    }
+
+    .section-title {
+        font-size: 1.5rem;  
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    body, html {
+        margin: 0;
+        padding: 0;
+        width: 100%;
     }
 }
