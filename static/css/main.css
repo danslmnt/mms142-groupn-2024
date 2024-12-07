@@ -8,7 +8,8 @@
      display: flex; align-items: center; justify-content: space-between;
 }
 .navbar-nav {
-    display: block; 
+    display: flex;  
+    justify-content: space-between;  
 }
 
 .navbar-nav .dropdown {
@@ -17,12 +18,17 @@
 .logo a{
     font-size: 35px; font-weight: 600; color: white;
 }
-    li{
-    list-style: none; displau: inline-block;
+.navbar-nav li {
+    display: inline-block;  
+    margin-right: 25px;  
 }
-    li a{
-        color: white; font-size: 18px; font-weigyht: bold; margin-right: 25 px;
-    }
+.navbar-nav li a {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;  
+}
+
     button{
         background-color: #21254a; margin-left: 10px; border-radius: 10px; padding: 10 px; width: 90px;
     }
