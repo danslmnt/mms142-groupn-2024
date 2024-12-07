@@ -143,6 +143,20 @@ section .main-body{
     background: #21254a;
 }
 
+#future img {
+    display: block; /* Avoid inline spacing issues */
+    margin: 0; /* Remove any margin */
+    padding: 0; /* Remove any padding */
+}
+
+#future {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+html {
+    scroll-padding-top: 75px; /* Match this to your nav bar height */
+}
 
 #avatar {
     position: relative;
