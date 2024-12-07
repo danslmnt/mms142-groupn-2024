@@ -143,4 +143,10 @@ section .main-body{
     }
 }
 
-
+@media (max-width: 768px) {
+    .section-title {
+        padding-left: 15px;
+        padding-right: 15px;
+        font-size: smaller;  
+    }
+}
