@@ -1,0 +1,145 @@
+@import "./styles.css";
+
+.navbar{
+    background: #21254a; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    padding-right: 15 px; padding-left: 15 pc;
+}
+.navdiv{
+     display: flex; align-items: center; justify-content: space-between;
+}
+.logo a{
+    font-size: 35px; font-weight: 600; color: white;
+}
+    li{
+    list-style: none; display: inline-block;
+}
+    li a{
+        color: white; font-size: 18px; font-weight: bold; margin-right: 25 px;
+    }
+    button{
+        background-color: #21254a; margin-left: 10px; border-radius: 10px; padding: 10 px; width: 90px;
+    }
+    button a{
+        color: white; font-weight: bold; font-size: 15 px
+    }
+    
+
+:root{
+    --h-title-color:#21254a;
+    --font-heading: "Futura", sans-serif;
+    --font-body: "Garamond", serif;
+}
+
+
+
+body {
+    font-family: var(--font-body);
+    font-size: 1rem; 
+    line-height: 1.6; 
+    color: #21254a; 
+}
+
+.header {
+    border-bottom: solid 2px var(white);
+    z-index: 10000;
+}
+
+.bg-bottom {
+    background-color: var(#21254a);
+}
+
+.top-section {
+    position: relative;
+    padding: 10rem 0;
+    background-position: center;
+    background-size: cover;
+    height: 25rem;
+}
+
+.top-section h2 {
+    font-weight: 400;
+}
+
+.top-section .top-section-content {
+    position: relative;
+    z-index: 1;
+}
+
+.top-section:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #21254a;
+}
+
+section header h2{
+    font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+    color: var(#21254a);
+    font-size: 2.3rem;
+    line-height: 4rem;
+}
+
+section .main-body{
+    font-size: 1.3rem;
+    font-weight: 200;
+    line-height: 2.4rem;
+}
+
+.bg-gradient-primary-to-secondary-light {
+    background: linear-gradient(#ffffff, #ffffff, #d8d8d8) !important;
+}
+
+.bg-gradient-primary-to-secondary-gray {
+    background: linear-gradient(#ffffff, #ffffff, #d8d8d8) !important;
+}
+
+
+
+.on-top {
+    position: relative;
+    z-index: 10000;
+}
+
+.top-bg {
+    background-position: center;
+    background-size: fill;
+    width: 100%;
+    height: 100%;
+}
+
+.top-bg::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #21254a;
+}
+
+
+#avatar {
+    position: relative;
+    height: 0;
+    top:min(-65px,max(-100px,calc(-1*100vw/12)));
+    max-width: 55em;
+    margin: 0 1.5rem 0 0;
+    float: right;
+    z-index: 9000;
+}
+
+#avatar img {
+    height: max(130px,min(200px,calc(100vw/6)));
+    box-shadow: 5px 5px 5px #21254a;
+}
+
+@media screen and (max-width: 991px) {
+    #avatar {
+        margin: 0;
+    }
+}
+
+
