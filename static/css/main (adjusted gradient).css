@@ -89,11 +89,11 @@ section .main-body{
 }
 
 .bg-gradient-primary-to-secondary-light {
-    background: linear-gradient(#ffffff, #ffffff, #d8d8d8) !important;
+    background: linear-gradient(#ffffff, #ffffff, #e0e0e0) !important;
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(#ffffff, #ffffff, #d8d8d8) !important;
+    background: linear-gradient(#ffffff, #ffffff, #e0e0e0) !important;
 }
 
 
