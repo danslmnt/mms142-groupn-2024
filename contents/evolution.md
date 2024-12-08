@@ -1,6 +1,7 @@
 ### The Development of the Concept of Crypto (Pre-Crypto Era)
 **1983:** The concept of eCash (digital currency) was developed by David Chaum (XchangeOn.io, 2023). He intended for users to maintain their anonymity while transferring money online. To ensure digital privacy, he employed cryptographic technology that allowed blind signatures, safeguarding the confidentiality of user transactions (XchangeOn.io, 2023). This was a pivotal moment in the evolution of digital currencies. It laid the foundations for cryptocurrency.
 
+
 **1998-2008:** After the failure of DigiCash, cryptocurrency was established during this time. B-money (Wei Dai) and Bit gold (Nick Szabo) were presented to decentralize the payment system and virtual currency by means of cryptography (XchangeOn.io, 2023). Although they were never fully developed, their schemes served as the framework needed to establish bitcoin.
 
 The economic crisis faced in 2008 exposed the flaws within the systems of financial institutions. As such, the public sought decentralized options for digital currency, leading Satoshi Nakamoto to publish a paper on Bitcoin as an alternative, ‘Bitcoin- A Peer to Peer Electronic Cash System,’ guided by the structures of B-money and Bit gold (XchangeOn.io, 2023).
@@ -20,6 +21,7 @@ The economic crisis faced in 2008 exposed the flaws within the systems of financ
 **2014:** The following year, funds were raised for the development of Ethereum. The fundraising campaign successfully managed to raise over 31,000 Bitcoins (BTC), which amounts to at least $18 million during that time (BEGINNERS, 2024). This led and enabled the construction of the Ethereum platform (decentralized world computer).
 
 <br><br><!-- Adds extra vertical space -->
+
 ### Early Expansion and Experimentation
 **2015:** The cryptocurrency ecosystem expanded significantly, with the number of cryptocurrencies surpassing 500. Estonia became a pioneer by implementing the first blockchain-based voting system, showcasing blockchain’s potential in governance and beyond traditional financial applications.
 
@@ -53,4 +55,5 @@ The economic crisis faced in 2008 exposed the flaws within the systems of financ
 
 <br><br>
 ### Recovery and Innovation
+
 **2023-Present:** The cryptocurrency market began stabilizing and recovering from the 2022 downturn. Innovations emphasized eco-friendly mining practices and wider adoption across industries like healthcare and real estate. The market’s projected annual growth rate suggests revenues may reach $71.7 billion by 2028, signaling a more mature and regulated phase for cryptocurrency. 
