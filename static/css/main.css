@@ -4,18 +4,40 @@
     background: #21254a; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     padding-right: 15 px; padding-left: 15 pc;
 }
-.navdiv{
-     display: flex; align-items: center; justify-content: space-between;
+.navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
-.logo a{
-    font-size: 35px; font-weight: 600; color: white;
+
+.navbar-nav {
+    display: flex;  
+    justify-content: space-evenly; 
+    align-items: center;
+    padding: 0;  
 }
-    li{
-    list-style: none; displau: inline-block;
+
+.navbar-nav .dropdown {
+    display: block; 
 }
-    li a{
-        color: white; font-size: 18px; font-weigyht: bold; margin-right: 25 px;
-    }
+
+.logo a {
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+
+.navbar-nav li {
+    display: inline-block; 
+    margin-right: 25px;  
+}
+
+.navbar-nav > li > a {
+    color: white;
+    font-size: 15px !important; 
+    font-weight: bold;
+    text-decoration: none;  
+}
     button{
         background-color: #21254a; margin-left: 10px; border-radius: 10px; padding: 10 px; width: 90px;
     }
@@ -72,7 +94,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #21254a;
+    background: rgba(33, 37, 74, 0.5);
 }
 
 section header h2{
@@ -121,6 +143,20 @@ section .main-body{
     background: #21254a;
 }
 
+#future img {
+    display: block; /* Avoid inline spacing issues */
+    margin: 0; /* Remove any margin */
+    padding: 0; /* Remove any padding */
+}
+
+#future {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+html {
+    scroll-padding-top: 75px; /* Match this to your nav bar height */
+}
 
 #avatar {
     position: relative;
@@ -137,10 +173,33 @@ section .main-body{
     box-shadow: 5px 5px 5px #21254a;
 }
 
+img {
+    max-width: 100%; 
+    height: auto;   
+}
+
 @media screen and (max-width: 991px) {
     #avatar {
         margin: 0;
     }
 }
 
+@media screen and (max-width: 768px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+        width: 100%;
+    }
 
+    .section-title {
+        font-size: 1.5rem;  
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    body, html {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+}

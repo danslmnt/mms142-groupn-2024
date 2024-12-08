@@ -1,5 +1,5 @@
-<br><br><!-- Adds extra vertical space -->
 ### The Development of the Concept of Crypto (Pre-Crypto Era)
+
 <br><br><!-- Adds extra vertical space -->
 **1983:** The concept of eCash (digital currency) was developed by David Chaum (XchangeOn.io, 2023). He intended for users to maintain their anonymity while transferring money online. To ensure digital privacy, he employed cryptographic technology that allowed blind signatures, safeguarding the confidentiality of user transactions (XchangeOn.io, 2023). This was a pivotal moment in the evolution of digital currencies. It laid the foundations for cryptocurrency.
 
@@ -71,4 +71,3 @@ The economic crisis faced in 2008 exposed the flaws within the systems of financ
 **Recovery and Innovation**
 <br><br>
 **2023-Present:** The cryptocurrency market began stabilizing and recovering from the 2022 downturn. Innovations emphasized eco-friendly mining practices and wider adoption across industries like healthcare and real estate. The market’s projected annual growth rate suggests revenues may reach $71.7 billion by 2028, signaling a more mature and regulated phase for cryptocurrency. 
-
